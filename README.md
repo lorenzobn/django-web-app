@@ -8,9 +8,9 @@ This repository hosts the web app developed for the course Cyber Security Projec
  -> Permits brute force or other automated attacks.
 2. ~~Cryptographic failure <br/>~~
  -> Deprecated hash function used (MD5).
-3. Security misconfiguration <br/>
- -> Error handling reveals stack traces
-4. Security logging and Monitoring failures <br/>
+3. ~~Security misconfiguration <br/>~~
+ -> Error handling reveals informative error messages to users
+4. ~~Security logging and Monitoring failures <br/>~~
  -> Auditable events, such as logins, failed logins, and high-value transactions, are not logged.
-5. Broken Access Control <br/>
-?
+5. ~~Broken Access Control <br/>~~
+->  Browsing to authenticated pages as an unauthenticated user
