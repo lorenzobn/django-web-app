@@ -4,7 +4,7 @@ This repository hosts the web app developed for the course Cyber Security Projec
 
 ## Overview of the Flaws (OWASP 2021)
 
-1.  ~~Identification and Authentication Failures <br/> ~~
+1. ~~Identification and Authentication Failures <br/>~~
  -> Permits brute force or other automated attacks.
 2. ~~Cryptographic failure <br/>~~
  -> Deprecated hash function used (MD5).
