@@ -2,6 +2,11 @@
 
 This repository hosts the web app developed for the course Cyber Security Project I at the University of Helsinki.
 
+## Default account
+There is a default account that you can use to login into the web app.
+username: admin
+password: admin
+
 ## Overview of the Flaws (OWASP 2021)
 
 1. ~~Cryptographic failure <br/>~~
